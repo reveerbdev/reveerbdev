@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/reveerbdev" target="blank"><img src="https://img.shields.io/twitter/follow/reveerbdev?logo=twitter&style=for-the-badge" alt="reveerbdev" /></a> </p>
 
 - 🔭 I’m currently working on [AsarGuard](https://github.com/reveerbdev/asarguard)
+- 🧠 I mainly use Csharp and its different frameworks .Net Framework, .Net core, Asp.net core
 
 - 🌱 I’m currently learning **C++**
 
